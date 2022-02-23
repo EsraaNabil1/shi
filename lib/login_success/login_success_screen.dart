@@ -9,7 +9,7 @@ class loginsuccess extends StatelessWidget {
       backgroundColor: Color.fromRGBO(210, 247, 255, 15),
       body: Center (
         child: Padding (
-        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 20),
+        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 20),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: <Widget>[
